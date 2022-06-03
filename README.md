@@ -17,6 +17,14 @@
 
 ## Images ##
 
-### Use break sequence to break out of ping ### 
+### Using CLI to create folder structure ### 
+![Using CLI to create folder structure](p1-folders.PNG)
 
-![Use break equence to break out of ping](p1-break.PNG)
+### Folder tree structure ### 
+![Folder tree structure](p1-tree.PNG)
+
+### Using break keyboard sequence to break out of ping ### 
+![Using break sequence to break out of ping](p1-break.PNG)
+
+### Response to domain ping on Windows ### 
+![Response to domain ping on Windows](p1-ping.PNG)
