@@ -14,3 +14,9 @@
 - Practiced using CLI commands to ping a domain and breaking out of a hanging CLI process 
 - Practiced writing and executing Node.js JavaScript code
 - Practiced documenting and explaining code 
+
+## Images ##
+
+### Use break sequence to break out of ping ### 
+
+![Use break equence to break out of ping](p1-break.PNG)
